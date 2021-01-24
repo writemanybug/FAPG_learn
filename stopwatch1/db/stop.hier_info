@@ -1,0 +1,43 @@
+|stop
+clk => out1[0]~reg0.CLK
+clk => out1[1]~reg0.CLK
+clk => out1[2]~reg0.CLK
+clk => out1[3]~reg0.CLK
+clk => out1[4]~reg0.CLK
+clk => out1[5]~reg0.CLK
+clk => out1[6]~reg0.CLK
+clk => out1[7]~reg0.CLK
+clk => out[0]~reg0.CLK
+clk => out[1]~reg0.CLK
+clk => out[2]~reg0.CLK
+clk => out[3]~reg0.CLK
+clk => out[4]~reg0.CLK
+clk => out[5]~reg0.CLK
+clk => out[6]~reg0.CLK
+clk => out[7]~reg0.CLK
+rst => out1.OUTPUTSELECT
+rst => out1.OUTPUTSELECT
+rst => out1.OUTPUTSELECT
+rst => out1.OUTPUTSELECT
+rst => out1.OUTPUTSELECT
+rst => out1.OUTPUTSELECT
+rst => out1.OUTPUTSELECT
+rst => out1.OUTPUTSELECT
+out[0] <= out[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+out[1] <= out[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+out[2] <= out[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+out[3] <= out[3]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+out[4] <= out[4]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+out[5] <= out[5]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+out[6] <= out[6]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+out[7] <= out[7]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+out1[0] <= out1[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+out1[1] <= out1[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+out1[2] <= out1[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+out1[3] <= out1[3]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+out1[4] <= out1[4]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+out1[5] <= out1[5]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+out1[6] <= out1[6]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+out1[7] <= out1[7]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

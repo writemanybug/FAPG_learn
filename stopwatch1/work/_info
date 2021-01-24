@@ -1,0 +1,57 @@
+m255
+K3
+13
+cModel Technology
+Z0 dF:\verilog_code\stopwatch
+T_opt
+Z1 V8MfeVLNZ2ziL`nWPUgVlZ1
+Z2 04 4 4 work stop fast 0
+Z3 =1-28c63ff9d643-5fb34068-2e3-1448
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 n@_opt
+Z6 OL;O;10.1c;51
+Z7 dF:\verilog_code\stopwatch
+T_opt1
+Z8 VV8_[e[=ca0A;?kLJg>i@?0
+Z9 04 9 4 work stop_test fast 0
+Z10 =1-28c63ff9d643-5fb341cb-1a9-2840
+R4
+Z11 n@_opt1
+R6
+R7
+vstop
+!i10b 1
+Z12 !s100 HQ4CXFfUBM]E3j6@IoflL1
+Z13 IZzL[@lOA6J3<Pdg^`7f[20
+Z14 VAV:f??U[2<G@L=]>K@;Fa2
+Z15 dF:\verilog_code\stopwatch1
+Z16 w1605583266
+Z17 8F:/verilog_code/stopwatch1/stop.v
+Z18 FF:/verilog_code/stopwatch1/stop.v
+L0 1
+Z19 OL;L;10.1c;51
+r1
+!s85 0
+31
+!s108 1605596768.295000
+!s107 F:/verilog_code/stopwatch1/stop.v|
+Z20 !s90 -reportprogress|300|-work|work|-vopt|F:/verilog_code/stopwatch1/stop.v|
+Z21 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+vstop_test
+Z22 !s100 2_eC@jdB[2aG4GVZ>?P<R1
+Z23 IJ=g[8:bR:QVH=<B:4_BCf1
+Z24 VYE^3=V9ikzdABLOUm5M:a1
+R15
+Z25 w1605593954
+Z26 8F:/verilog_code/stopwatch1/stop_test.v
+Z27 FF:/verilog_code/stopwatch1/stop_test.v
+L0 2
+R19
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|-vopt|F:/verilog_code/stopwatch1/stop_test.v|
+R21
+!i10b 1
+!s85 0
+Z29 !s108 1605596768.159000
+Z30 !s107 F:/verilog_code/stopwatch1/stop_test.v|

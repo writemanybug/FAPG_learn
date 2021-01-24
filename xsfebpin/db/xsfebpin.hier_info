@@ -1,0 +1,22 @@
+|xsfebpin
+clk_in => clk_out~reg0.CLK
+clk_in => cnt2[0].CLK
+clk_in => cnt2[1].CLK
+clk_in => cnt2[2].CLK
+clk_in => cnt2[3].CLK
+clk_in => cnt1[0].CLK
+clk_in => cnt1[1].CLK
+clk_in => cnt1[2].CLK
+clk_in => cnt1[3].CLK
+rst => clk_out~reg0.ACLR
+rst => cnt2[0].ACLR
+rst => cnt2[1].ACLR
+rst => cnt2[2].ACLR
+rst => cnt2[3].ACLR
+rst => cnt1[0].ACLR
+rst => cnt1[1].ACLR
+rst => cnt1[2].ACLR
+rst => cnt1[3].ACLR
+clk_out <= clk_out~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

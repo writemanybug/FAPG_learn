@@ -1,0 +1,16 @@
+Fitter Status : Successful - Fri Nov 27 13:32:39 2020
+Quartus II 64-Bit Version : 12.0 Build 178 05/31/2012 SJ Full Version
+Revision Name : shumaguan
+Top-level Entity Name : shumaguan
+Family : Cyclone IV E
+Device : EP4CE40F23C8
+Timing Models : Final
+Total logic elements : 26 / 39,600 ( < 1 % )
+    Total combinational functions : 26 / 39,600 ( < 1 % )
+    Dedicated logic registers : 0 / 39,600 ( 0 % )
+Total registers : 0
+Total pins : 19 / 329 ( 6 % )
+Total virtual pins : 0
+Total memory bits : 0 / 1,161,216 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 232 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )

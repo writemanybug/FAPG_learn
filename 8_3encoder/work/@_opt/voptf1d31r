@@ -1,0 +1,48 @@
+m255
+K3
+13
+cModel Technology
+dF:\verilog_code\stopwatch
+T_opt
+VSIBZ@>D7OejW0bkBe`Z9J0
+04 15 4 work encoder8_3_test fast 0
+=1-28c63ff9d643-5fba17c9-240-700
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.1c;51
+vencoder8_3
+!s100 EmAJDUf8no>8?6[Gao;hj2
+I71HY]ja@m`i<D9Nj^n1AD0
+V9NWG<gTV1=Ca0U==Qk:Zi2
+Z0 dF:\verilog_code\8_3encoder
+w1606030425
+8F:/verilog_code/8_3encoder/encoder8_3.v
+FF:/verilog_code/8_3encoder/encoder8_3.v
+L0 1
+Z1 OL;L;10.1c;51
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|F:/verilog_code/8_3encoder/encoder8_3.v|
+Z2 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!i10b 1
+!s85 0
+!s108 1606031179.908000
+!s107 F:/verilog_code/8_3encoder/encoder8_3.v|
+vencoder8_3_test
+!s100 gUof1]CeN<CO>JoV[KGDA1
+IETD:`OU3bK<SKZ8hY7Jj>2
+VNQoOWFbGOj>3TTmTPgjRA1
+Z3 dF:\verilog_code\8_3encoder
+w1606031031
+8F:/verilog_code/8_3encoder/encoder8_3_test.v
+FF:/verilog_code/8_3encoder/encoder8_3_test.v
+L0 2
+R1
+r1
+31
+!s90 -reportprogress|300|-work|work|-vopt|F:/verilog_code/8_3encoder/encoder8_3_test.v|
+R2
+!s108 1606031179.801000
+!s107 F:/verilog_code/8_3encoder/encoder8_3_test.v|
+!i10b 1
+!s85 0

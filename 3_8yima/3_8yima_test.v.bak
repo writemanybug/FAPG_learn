@@ -1,0 +1,13 @@
+`timescale  1us/1us 
+module decoder3_8_test;
+  wire[7:0] out ;
+  reg ina,inb,inc;
+  decoder3_8 u1(ina,inb,inc,out);
+  initial
+    begin
+      ina=0;inb=0;inc=0;
+      #50 rst=1;
+      #6000 $stop;
+    end
+  initial $monitor($time, , ,"clk=%b rst=%b out=%b",clk,rst,out);
+endmodule

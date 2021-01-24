@@ -1,0 +1,30 @@
+m255
+K3
+13
+cModel Technology
+dF:\verilog_code\digui
+T_opt
+VkiAIPDR6eka4FV^nK4Nkb3
+04 6 4 work factor fast 0
+=1-28c63ff9d643-5fba683f-23f-2bcc
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OL;O;10.1c;51
+vfactor
+IN7UkS`kHmzCZ1>:5T:Xfj0
+VO<a>IP`H?PKOa1@4=fa>Q0
+dF:\verilog_code\factor
+w1606051524
+8F:/verilog_code/factor/factor.v
+FF:/verilog_code/factor/factor.v
+L0 1
+OL;L;10.1c;51
+r1
+31
+o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s90 -reportprogress|300|-work|work|-vopt|F:/verilog_code/factor/factor.v|
+!i10b 1
+!s100 h1SFMBRRl9<[b@l>=A=R>2
+!s85 0
+!s108 1606051888.486000
+!s107 F:/verilog_code/factor/factor.v|

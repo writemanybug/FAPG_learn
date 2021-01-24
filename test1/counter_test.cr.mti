@@ -1,0 +1,15 @@
+F:/verilog_code/test1/counter.v {1 {vlog -work work -vopt F:/verilog_code/test1/counter.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} F:/verilog_code/test1/counter_test.v {1 {vlog -work work -vopt F:/verilog_code/test1/counter_test.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module counter_test
+
+Top level modules:
+	counter_test
+
+} {} {}}

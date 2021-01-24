@@ -1,0 +1,50 @@
+m255
+K3
+13
+cModel Technology
+Z0 dF:\verilog_code\stopwatch
+T_opt
+V7ZjUF9KQ]TBc1I`bm^kc?2
+04 14 4 work stopwatch_test fast 0
+=1-28c63ff9d643-5fba0548-98-3110
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work +acc
+n@_opt
+OL;O;10.1c;51
+vstopwatch
+!s100 4P0M5?Z1E41]YN[eLJ<8m3
+IOJIS>=N:lglPI_e6Qd4i91
+VnJ^O8To6MYn7YMmel@g5U1
+Z1 dF:\verilog_code\stopwatch
+w1605599461
+8F:/verilog_code/stopwatch/stopwatch.v
+FF:/verilog_code/stopwatch/stopwatch.v
+L0 1
+Z2 OL;L;10.1c;51
+r1
+31
+Z3 o-vlog01compat -work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s107 F:/verilog_code/stopwatch/stopwatch.v|
+Z4 !s92 -vlog01compat -work work +incdir+F:/verilog_code/stopwatch -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!i10b 1
+!s85 0
+!s108 1606026567.402000
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/verilog_code/stopwatch|F:/verilog_code/stopwatch/stopwatch.v|
+vstopwatch_test
+!s100 39o[fdljFz6O7lRcf<TL`3
+I7]eA_WmXobEK:aj0Uf;W<3
+VMNDVTj?;7>93?Nn_OVMCe1
+R1
+w1605598497
+8F:/verilog_code/stopwatch/stopwatch_test.v
+FF:/verilog_code/stopwatch/stopwatch_test.v
+L0 2
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s85 0
+!s108 1606026567.531000
+!s107 F:/verilog_code/stopwatch/stopwatch_test.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/verilog_code/stopwatch|F:/verilog_code/stopwatch/stopwatch_test.v|

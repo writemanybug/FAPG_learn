@@ -1,0 +1,56 @@
+m255
+K3
+13
+cModel Technology
+Z0 dG:\modelsim\examples
+T_opt
+VVF_W?Rn0^JCQmd7_iG=X11
+04 12 4 work counter_test fast 0
+=1-28c63ff9d643-5fb2197b-2a9-1794
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+Z1 OL;O;10.1c;51
+Z2 dG:\modelsim\examples
+T_opt1
+V^O>QAWiiUE=9Ucfz]Wm950
+04 7 4 work counter fast 0
+=1-28c63ff9d643-5fb21b18-30a-3988
+o-quiet -auto_acc_if_foreign -work work
+n@_opt1
+R1
+vcounter
+I]JZ8GVaoL@80>b29U]1i_0
+V9>dF96m1M`]GggIZhMl6Z3
+Z3 dF:\verilog_code\test1
+w1605491038
+8F:/verilog_code/test1/counter.v
+FF:/verilog_code/test1/counter.v
+L0 1
+Z4 OL;L;10.1c;51
+r1
+31
+Z5 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s100 N:JVGSombDiDUZGHS6I>L1
+!s90 -reportprogress|300|-work|work|-vopt|F:/verilog_code/test1/counter.v|
+!i10b 1
+!s85 0
+!s108 1605507439.840000
+!s107 F:/verilog_code/test1/counter.v|
+vcounter_test
+I^;Pl4`Lcz=8JNOHZZSKL02
+VXlLM_4z?5gAD?m8MbL<mQ2
+R3
+w1605507439
+8F:/verilog_code/test1/counter_test.v
+FF:/verilog_code/test1/counter_test.v
+L0 2
+R4
+r1
+31
+R5
+!s90 -reportprogress|300|-work|work|-vopt|F:/verilog_code/test1/counter_test.v|
+!s100 9184L<P1KBANN0cb1DcYF0
+!s108 1605507439.700000
+!s107 F:/verilog_code/test1/counter_test.v|
+!i10b 1
+!s85 0

@@ -1,0 +1,8 @@
+F:/verilog_code/3_8yima/3_8yima_test.v {1 {vlog -work work -vopt F:/verilog_code/3_8yima/3_8yima_test.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module decoder3_8_test
+
+Top level modules:
+	decoder3_8_test
+
+} {} {}}

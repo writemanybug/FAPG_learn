@@ -1,0 +1,15 @@
+F:/verilog_code/erfenpin/erfenpin_test.v {1 {vlog -work work -vopt F:/verilog_code/erfenpin/erfenpin_test.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module erfenpin_test
+
+Top level modules:
+	erfenpin_test
+
+} {} {}} F:/verilog_code/erfenpin/erfenpin.v {1 {vlog -work work -vopt F:/verilog_code/erfenpin/erfenpin.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module erfenpin
+
+Top level modules:
+	erfenpin
+
+} {} {}}

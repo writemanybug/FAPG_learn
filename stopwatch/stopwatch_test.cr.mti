@@ -1,0 +1,15 @@
+F:/verilog_code/stopwatch/stopwatch_test.v {1 {vlog -work work -vopt F:/verilog_code/stopwatch/stopwatch_test.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module stopwatch_test
+
+Top level modules:
+	stopwatch_test
+
+} {} {}} F:/verilog_code/stopwatch/stopwatch.v {1 {vlog -work work -vopt F:/verilog_code/stopwatch/stopwatch.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module stopwatch
+
+Top level modules:
+	stopwatch
+
+} {} {}}

@@ -1,0 +1,16 @@
+Fitter Status : Successful - Fri Nov 27 17:04:21 2020
+Quartus II 64-Bit Version : 12.0 Build 178 05/31/2012 SJ Full Version
+Revision Name : time_clock
+Top-level Entity Name : time_clock
+Family : Cyclone IV E
+Device : EP4CE40F23C8
+Timing Models : Final
+Total logic elements : 209 / 39,600 ( < 1 % )
+    Total combinational functions : 209 / 39,600 ( < 1 % )
+    Dedicated logic registers : 97 / 39,600 ( < 1 % )
+Total registers : 97
+Total pins : 13 / 329 ( 4 % )
+Total virtual pins : 0
+Total memory bits : 0 / 1,161,216 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 232 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )

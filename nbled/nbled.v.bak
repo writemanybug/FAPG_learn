@@ -1,0 +1,30 @@
+module nbled(clk,rst,led)//50MHz
+	input clk,rst;
+	output reg[11:0] led;
+	initial n=0;
+	led=12'h000;
+	always@(posedge clk or posedge rst)
+	begin
+		if(!rst)
+		begin
+			led<=12'h000;
+			n<=0;
+		end
+		else
+		begin
+			n<=n+1;
+			if(n=12500000)
+			begin
+				if(led==12'h000)
+					led<=led+1'b1;
+				led<=led+led<<1;
+				n<=0;
+				if(led==12'hfff)
+				begin
+					led=12'h000;
+				end
+			end
+		end
+	end
+
+endmodule

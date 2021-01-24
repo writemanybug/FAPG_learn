@@ -1,0 +1,8 @@
+F:/verilog_code/jifenping/div_3.v {1 {vlog -work work -vopt F:/verilog_code/jifenping/div_3.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module div_3
+
+Top level modules:
+	div_3
+
+} {} {}}

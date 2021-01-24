@@ -1,0 +1,48 @@
+m255
+K3
+13
+cModel Technology
+dF:\verilog_code\led
+T_opt
+VH3WINMCIGJUREDjJ;?Dcl1
+04 13 4 work erfenpin_test fast 0
+=1-28c63ff9d643-5fcee645-18b-33d4
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OL;O;10.1c;51
+verfenpin
+I`SnlFZ2QZofRCA9<V>Um;0
+VhOc]N`ig:XJ?AX[;Jd^cV3
+Z0 dF:\verilog_code\erfenpin
+w1607394879
+8F:/verilog_code/erfenpin/erfenpin.v
+FF:/verilog_code/erfenpin/erfenpin.v
+L0 1
+Z1 OL;L;10.1c;51
+r1
+31
+Z2 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s90 -reportprogress|300|-work|work|-vopt|F:/verilog_code/erfenpin/erfenpin.v|
+!i10b 1
+!s100 ]hT8<FFbXNE`VTe1=1G6f1
+!s85 0
+!s108 1607394880.066000
+!s107 F:/verilog_code/erfenpin/erfenpin.v|
+verfenpin_test
+I@I8P24ezB?Jm:AZ5cDBYQ1
+V?bi]0CV35XYToin6lRRTZ2
+Z3 dF:\verilog_code\erfenpin
+w1606534898
+8F:/verilog_code/erfenpin/erfenpin_test.v
+FF:/verilog_code/erfenpin/erfenpin_test.v
+L0 2
+R1
+r1
+31
+R2
+!s100 9V=DA1^mCfJoHYhdF4oiL1
+!s90 -reportprogress|300|-work|work|-vopt|F:/verilog_code/erfenpin/erfenpin_test.v|
+!s108 1607394878.416000
+!s107 F:/verilog_code/erfenpin/erfenpin_test.v|
+!i10b 1
+!s85 0

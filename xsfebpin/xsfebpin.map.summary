@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon Dec 14 08:25:56 2020
+Quartus II 64-Bit Version : 12.0 Build 178 05/31/2012 SJ Full Version
+Revision Name : xsfebpin
+Top-level Entity Name : xsfebpin
+Family : Cyclone IV E
+Total logic elements : 11
+    Total combinational functions : 11
+    Dedicated logic registers : 8
+Total registers : 8
+Total pins : 3
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

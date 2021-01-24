@@ -1,0 +1,10 @@
+module top(a,b,cin,out);
+
+input a,b,cin;
+output out;
+wire in0,in1,sel;
+
+adder1 u1(.a(a), .b(b), .cin(cin), .sum(in0), .cout(in1));
+mux2_1 u2(.in0(in0), .in1(in1), .sel(sel), .out(out));
+
+endmodule

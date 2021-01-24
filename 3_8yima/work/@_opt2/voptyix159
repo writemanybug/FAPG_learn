@@ -1,0 +1,64 @@
+m255
+K3
+13
+cModel Technology
+Z0 dF:\verilog_code\test1
+T_opt
+Va8A;b;PY:gU37;M7[R7:[3
+Z1 04 15 4 work decoder3_8_test fast 0
+=1-28c63ff9d643-5fb22104-24a-2718
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+Z2 OL;O;10.1c;51
+Z3 dF:\verilog_code\test1
+T_opt1
+V2bm:3V3fk_lSme1_hTM6W1
+04 10 4 work decoder3_8 fast 0
+=1-28c63ff9d643-5fb3327b-3cd-8fc
+Z4 o-quiet -auto_acc_if_foreign -work work
+n@_opt1
+R2
+R3
+T_opt2
+VcSgFM[X]zQY[;zoCkfEGd2
+R1
+=1-28c63ff9d643-5fba18f6-1f6-3538
+R4
+n@_opt2
+R2
+vdecoder3_8
+I[T:B7gE:FVmOajONe[9I50
+VBITY?XXTg^:@0:FcP:MN;3
+Z5 dF:\verilog_code\3_8yima
+w1605593956
+8F:/verilog_code/3_8yima/decoder3_8.v
+FF:/verilog_code/3_8yima/decoder3_8.v
+L0 1
+Z6 OL;L;10.1c;51
+r1
+31
+Z7 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!i10b 1
+!s100 d78NfL:JzF=b>H_kkMK7;1
+!s85 0
+!s108 1606031599.231000
+!s107 F:/verilog_code/3_8yima/decoder3_8.v|
+!s90 -reportprogress|300|-work|work|F:/verilog_code/3_8yima/decoder3_8.v|
+vdecoder3_8_test
+I2L1nWhnl46[SRl4Sk[Wel2
+VN_3oLBDUWYUn1AYGeogZ50
+R5
+w1605509354
+8F:/verilog_code/3_8yima/3_8yima_test.v
+FF:/verilog_code/3_8yima/3_8yima_test.v
+L0 2
+R6
+r1
+31
+R7
+!s100 LP[YM<zi]_CRklndPOlU53
+!s108 1606031599.110000
+!s107 F:/verilog_code/3_8yima/3_8yima_test.v|
+!s90 -reportprogress|300|-work|work|F:/verilog_code/3_8yima/3_8yima_test.v|
+!i10b 1
+!s85 0

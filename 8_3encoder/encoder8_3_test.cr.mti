@@ -1,0 +1,15 @@
+F:/verilog_code/8_3encoder/encoder8_3_test.v {1 {vlog -work work -vopt F:/verilog_code/8_3encoder/encoder8_3_test.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module encoder8_3_test
+
+Top level modules:
+	encoder8_3_test
+
+} {} {}} F:/verilog_code/8_3encoder/encoder8_3.v {1 {vlog -work work -vopt F:/verilog_code/8_3encoder/encoder8_3.v
+Model Technology ModelSim SE-64 vlog 10.1c Compiler 2012.07 Jul 27 2012
+-- Compiling module encoder8_3
+
+Top level modules:
+	encoder8_3
+
+} {} {}}

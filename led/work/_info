@@ -1,0 +1,48 @@
+m255
+K3
+13
+cModel Technology
+dF:\verilog_code\factor
+T_opt
+V[WSPlGNL_0^Cn3z8C;1jD3
+04 8 4 work led_test fast 0
+=1-28c63ff9d643-5fbcd036-29d-2df0
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OL;O;10.1c;51
+vled
+IH78@IfUzn5B?Q`H[f6Pon3
+V8T:cO9=1ifHoJZ_[KKMa11
+Z0 dF:\verilog_code\led
+w1606198327
+8F:/verilog_code/led/led.v
+FF:/verilog_code/led/led.v
+L0 1
+Z1 OL;L;10.1c;51
+r1
+31
+Z2 o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s100 nW@EEA^JWHTE=>[=BNjH`1
+!s90 -reportprogress|300|-work|work|-vopt|F:/verilog_code/led/led.v|
+!i10b 1
+!s85 0
+!s108 1606209584.311000
+!s107 F:/verilog_code/led/led.v|
+vled_test
+Io=lTY7ZoDok1FV1K?0TK_1
+V;WTWcCc@3FAaCFafU[R?D1
+Z3 dF:\verilog_code\led
+w1606209583
+8F:/verilog_code/led/led_test.v
+FF:/verilog_code/led/led_test.v
+L0 2
+R1
+r1
+31
+R2
+!s90 -reportprogress|300|-work|work|-vopt|F:/verilog_code/led/led_test.v|
+!s100 VXidNX;ZMY3A9g6;?hdPT2
+!s108 1606209584.182000
+!s107 F:/verilog_code/led/led_test.v|
+!i10b 1
+!s85 0

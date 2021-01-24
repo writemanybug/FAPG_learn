@@ -1,0 +1,30 @@
+m255
+K3
+13
+cModel Technology
+dF:\verilog_code\8_3encoder
+T_opt
+VA=QZg2aZ@2a12JeehWcFZ3
+04 7 4 work tryfact fast 0
+=1-28c63ff9d643-5fba5f93-21e-2b30
+o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+OL;O;10.1c;51
+vtryfact
+IlRB0o0<?iZY0>I81UB^<40
+V][RKU;GfQDeblb7RUlZR^1
+dF:\verilog_code\digui
+w1606049679
+8F:/verilog_code/digui/tryfact.v
+FF:/verilog_code/digui/tryfact.v
+L0 1
+OL;L;10.1c;51
+r1
+31
+o-work work -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+!s90 -reportprogress|300|-work|work|-vopt|F:/verilog_code/digui/tryfact.v|
+!i10b 1
+!s100 6kPUIZLUdVJ@TJJDR^RAI3
+!s85 0
+!s108 1606049679.681000
+!s107 F:/verilog_code/digui/tryfact.v|
